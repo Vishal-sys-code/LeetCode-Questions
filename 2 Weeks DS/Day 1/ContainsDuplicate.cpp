@@ -1,4 +1,5 @@
 #include <bits/stdc++.h> //includes every thing which we requires
+using namespace std;
 class Solution {
 public:
     bool containsDuplicate(vector<int>& nums) {
